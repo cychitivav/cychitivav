@@ -4,7 +4,9 @@
 </h1>
 
 <p align="center">
-   https://skyline.github.com/cychitivav/2021
+   <a href="https://skyline.github.com/cychitivav/2022">
+      <img src="https://user-images.githubusercontent.com/30636259/171782551-7b7bfc8e-86cc-46dc-98ee-50f0db5b38d9.png" width="600px">
+   </a>   
 </p>
 
 <a href="#gh-dark-mode-only">
