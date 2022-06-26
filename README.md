@@ -3,11 +3,13 @@
    I'm Cristian and I'm a mechatronics engineering student
 </h1>
 
+<!--
 <p align="center">
    <a href="https://skyline.github.com/cychitivav/2022">
       <img src="https://user-images.githubusercontent.com/30636259/171782551-7b7bfc8e-86cc-46dc-98ee-50f0db5b38d9.png" width="600px">
    </a>   
 </p>
+-->
 
 <a href="#gh-dark-mode-only">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true&theme=github_dark" alt="cychitivav stats" width="450px"/>
