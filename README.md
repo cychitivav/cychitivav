@@ -22,7 +22,7 @@ if __name__ == '__main__':
 
 ## :technologist: About me
 <p>
-    <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Consoles&color=%23008080&size=25&center=true&vCenter=true&width=600&height=100&lines=@cychitivav;Mechatronics+Engineer;Programming+Enthusiast;Self-taught;Cyclist;Always+Learning+New+Things">
+    <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Consoles&color=%23008080&size=25&center=true&vCenter=true&width=400&height=100&lines=@cychitivav;Mechatronics+Engineer;Programming+Enthusiast;Self-taught;Cyclist;Always+Learning+New+Things">
 </p>
 
 - 👯 I'm contributing to ROS2 Documentation.
@@ -88,12 +88,12 @@ if __name__ == '__main__':
 <div align="center">
     <a href="#gh-dark-mode-only">
        <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true&theme=github_dark" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&theme=github_dark" alt="cychitivav top languages" width="40%"/> <br>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&theme=github_dark" alt="cychitivav top languages" width="40%"/>
 	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav&theme=github_dark" />
     </a>
     <a href="#gh-light-mode-only">
        <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&hide=jinja,CMake" alt="cychitivav top languages" width="40%"/> <br>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&hide=jinja,CMake" alt="cychitivav top languages" width="40%"/>
 	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav" />
     </a>
 </div>
