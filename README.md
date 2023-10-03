@@ -1,103 +1,102 @@
-<h1 align="center">
-   Hi, I'm Cristian Chitiva
-   <!-- <a href="https://cychitivav.github.io/me/" target="blank"> -->
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consoles&color=%23008080&size=25&center=true&vCenter=true&width=600&height=100&lines=@cychitivav;Mechatronics+Engineer;Programming+Appasionate;Self-taught;Cyclist;Always+learning+new+things">
-</p>
-
-<h3 align="center">
-
-A Mechatronics engineer from Bogotá, Colombia :colombia:
-</h3>
-
-## :technologist: :bicyclist: About me
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
-- 🌱 I’m currently learning computer vision
-- 🔭 I’m currently working on design of control algorithm for a Stewart-Gough platform
-
-## :hammer_and_wrench: Skills
-
-
-<div align="center">  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-      <h3>Web Development</h3>
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/Jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja">
-      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Computer Vision</h3>
-      <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Robotics</h3>
-      <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Data Science</h3>
-      <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-      <!-- <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"> -->
-    </div>
-    <div style="margin: 10px;">
-      <h3>Development Tools</h3>
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Programming Languages</h3>
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Operating Systems</h3>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    </div>
-    <div style="margin: 10px;">
-      <h3>Other Tools</h3>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-      <img src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </div>
-    <!-- <div style="margin: 10px;">
-      <h3>Databases</h3>
-      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-    </div>
-    <div style="margin: 10px;">
-      <h3>User Interface Development</h3>
-      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">
-    </div> -->
-  </div>
+# Hello `<there/>` 👋, I'm Cristian Chitiva
 </div>
 
+```python
+class ContinuousLearner():
+  def __init__(self):
+    self.name = "Cristian Chitiva";
+    self.username = "cychitivav";
+    self.location = "Bogotá, Colombia";
+    self.education = {
+        "Bachelor's Degree": ['Mechatronics Engineer', 'Universidad Nacional de Colombia']
+    }
 
+if __name__ == '__main__':
+    me = ContinuousLearner()
+```
+
+
+
+
+## :technologist: About me
+<p>
+    <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Consoles&color=%23008080&size=25&center=true&vCenter=true&width=600&height=100&lines=@cychitivav;Mechatronics+Engineer;Programming+Enthusiast;Self-taught;Cyclist;Always+Learning+New+Things">
+</p>
+
+- 👯 I'm contributing to ROS2 Documentation.
+- 🤔 I'm looking to collaborate on FastAPI project.
+<!-- - 💬 Ask me about ... -->
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: ... -->
+- 🌱 I'm currently learning Machine Learning and Deep Learning.
+- 🔭 I'm currently working on designing control algorithms.
+
+
+
+## :hammer_and_wrench: Skills
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Web Development
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Machine Learning and Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Robotics and Control Systems
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Hardware and IoT
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### Other
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
+
+</div>
 
 ## :chart_with_upwards_trend: GitHub Stats
-
-<!-- <a href="#gh-dark-mode-only">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true&theme=github_dark" alt="cychitivav stats" width="55%"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&theme=github_dark&hide=jinja,Cmake" alt="cychitivav top languages" width="40%"/>
-</a>
-<a href="#gh-light-mode-only">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true" alt="cychitivav stats" width="55%"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&hide=jinja,CMake" alt="cychitivav top languages" width="40%"/>
-</a> -->
+<div align="center">
+    <a href="#gh-dark-mode-only">
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true&theme=github_dark" alt="cychitivav stats" width="55%"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&theme=github_dark" alt="cychitivav top languages" width="40%"/> <br>
+	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav&theme=github_dark" />
+    </a>
+    <a href="#gh-light-mode-only">
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true" alt="cychitivav stats" width="55%"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&hide=jinja,CMake" alt="cychitivav top languages" width="40%"/> <br>
+	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav" />
+    </a>
+</div>
 
 ## :handshake: Connect with me
 
@@ -148,10 +147,4 @@ If my open source projects are useful for your product/company you can also spon
 🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 ✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
-
-
-
--->
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting -->
