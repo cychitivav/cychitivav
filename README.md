@@ -119,6 +119,9 @@ if __name__ == '__main__':
 	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/channels/.crysis_">
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg" width="48" height="48">
 	</a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:cychitivav@unal.edu.co">
+	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" width="48" height="48">
+	</a>
 </p>
 
 <!--
