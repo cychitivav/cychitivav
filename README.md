@@ -123,31 +123,3 @@ if __name__ == '__main__':
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" width="48" height="48">
 	</a>
 </p>
-
-<!--
-
-I'm a software developer from Colombia. 🇨🇴
-
-I currently live in Berlin, Germany. 🇩🇪
-
-I have been building APIs and tools for Machine Learning and data systems, in Latin America, the Middle East, and now Europe, with different teams and organizations. 🌎
-
-I created FastAPI, Typer and a bunch of other open source tools. 🚀
-
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
-
-I'm currently dedicating a high percentage of my time to FastAPI, Typer, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and product, feel free to contact me. 🤓
-
-If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
-
-
-
-------------------------------
-
-
-
-💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting -->
