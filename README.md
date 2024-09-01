@@ -30,7 +30,7 @@ if __name__ == '__main__':
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 - 🌱 I'm currently learning Machine Learning and Deep Learning.
-- 🔭 I'm currently working on designing control algorithms.
+- 🔭 I'm currently working on implementing control algorithms.
 
 ## :hammer_and_wrench: Skills
 
@@ -55,11 +55,10 @@ if __name__ == '__main__':
 #### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-113527?style=for-the-badge&logo=django&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-FFFFFF?style=for-the-badge&logo=jinja&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Machine Learning and Data Science
 
@@ -68,7 +67,7 @@ if __name__ == '__main__':
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### Robotics and Control Systems
 
@@ -139,7 +138,7 @@ if __name__ == '__main__':
 	<a target="_blank" href="https://discord.com/channels/.crysis_">
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg" width="48" height="48">
 	</a>
-    <a target="_blank" href="mailto:cychitivav@unal.edu.co">
+    <a target="_blank" href="mailto:me@cristianchitiva.dev">
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" width="48" height="48">
 	</a>
 </p>
