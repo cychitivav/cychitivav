@@ -106,12 +106,12 @@ if __name__ == '__main__':
 
 <div align="center">
     <a href="#gh-dark-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" height="175px"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" height="175px"/>
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" height="170px"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" height="170px"/>
     </a>
     <a href="#gh-light-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" height="175px"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" height="175px"/>
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" height="170px"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" height="170px"/>
     </a>
 </div>
 
