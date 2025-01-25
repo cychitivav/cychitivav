@@ -123,9 +123,6 @@ if __name__ == '__main__':
     <a target="_blank" href="https://www.linkedin.com/in/cychitivav/">
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" width="48" height="48" alt="LinkedIn">
     </a>
-    <a target="_blank" href="https://github.com/cychitivav">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/github.svg" width="48" height="48" alt="GitHub">
-	</a>
 	<a target="_blank" href="https://stackoverflow.com/users/8657400/cychitivav?tab=profile">
 	    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width="48" height="48" alt="Stack Overflow">
 	</a>
