@@ -105,14 +105,16 @@ if __name__ == '__main__':
 ## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
-    <a href="#gh-dark-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" height="170px"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" height="170px"/>
-    </a>
-    <a href="#gh-light-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" height="170px"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" height="170px"/>
-    </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" />
+        <img alt="cychitivav stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" width="66%" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" />
+        <img alt="cychitivav top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" width="30%" />
+    </picture>
 </div>
 
 ## :handshake: Connect with me
