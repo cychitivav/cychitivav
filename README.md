@@ -121,24 +121,24 @@ if __name__ == '__main__':
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/cychitivav/">
-	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" width="48" height="48">
+	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" width="48" height="48" alt="LinkedIn">
     </a>
     <a target="_blank" href="https://github.com/cychitivav">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/github.svg" width="48" height="48">
+		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/github.svg" width="48" height="48" alt="GitHub">
 	</a>
 	<a target="_blank" href="https://stackoverflow.com/users/8657400/cychitivav?tab=profile">
-	    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width="48" height="48">
+	    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width="48" height="48" alt="Stack Overflow">
 	</a>
 	<a target="_blank" href="https://twitter.com/CChitiva7">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/twitter.svg" width="48" height="48">
+		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/twitter.svg" width="48" height="48" alt="Twitter">
 	</a>
-	<a target="_blank" href="https://www.youtube.com/channel/UCmGt_ifcmsELaTBDVqbpt4Q">
+	<a target="_blank" href="https://www.youtube.com/@cychitivav">
 	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/youtube.svg" width="48" height="48">
 	</a>
 	<a target="_blank" href="https://discord.com/channels/.crysis_">
-	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg" width="48" height="48">
+	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg" width="48" height="48" alt="Discord">
 	</a>
-    <a target="_blank" href="mailto:me@cristianchitiva.dev">
-	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" width="48" height="48">
+    <a target="_blank" href="mailto:contact@cristianchitiva.dev">
+	    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" width="48" height="48" alt="Mail">
 	</a>
 </p>
