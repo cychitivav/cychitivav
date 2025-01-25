@@ -24,13 +24,13 @@ if __name__ == '__main__':
     <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Consoles&color=%23008080&size=25&center=true&vCenter=true&width=400&height=100&lines=@cychitivav;Mechatronics+Engineer;Programming+Enthusiast;Self-taught;Cyclist;Always+Learning+New+Things">
 </p>
 
-- 👯 I'm contributing to ROS2 Documentation.
-- 🤔 I'm looking to collaborate on FastAPI project.
+-   👯 I'm contributing to ROS2 Documentation.
+-   🤔 I'm looking to collaborate on FastAPI project.
 <!-- - 💬 Ask me about ... -->
-- 😄 Pronouns: He/Him
+-   😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
-- 🌱 I'm currently learning Machine Learning and Deep Learning.
-- 🔭 I'm currently working on implementing control algorithms.
+-   🌱 I'm currently learning Machine Learning and Deep Learning.
+-   🔭 I'm currently working on implementing control algorithms.
 
 ## :hammer_and_wrench: Skills
 
@@ -106,12 +106,12 @@ if __name__ == '__main__':
 
 <div align="center">
     <a href="#gh-dark-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" width="40%"/>
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" height="150px"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" height="150px"/>
     </a>
     <a href="#gh-light-mode-only">
-       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" width="40%"/>
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" height="150px"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" height="150px"/>
     </a>
 </div>
 
