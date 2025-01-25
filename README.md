@@ -106,14 +106,12 @@ if __name__ == '__main__':
 
 <div align="center">
     <a href="#gh-dark-mode-only">
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true&theme=github_dark" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&theme=github_dark" alt="cychitivav top languages" width="40%"/>
-	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav&theme=github_dark" />
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github_dark" alt="cychitivav stats" width="55%"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" alt="cychitivav top languages" width="40%"/>
     </a>
     <a href="#gh-light-mode-only">
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=cychitivav&show_icons=true" alt="cychitivav stats" width="55%"/>
-       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=compact&hide=jinja,CMake" alt="cychitivav top languages" width="40%"/>
-	   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cychitivav" />
+       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" alt="cychitivav stats" width="55%"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" alt="cychitivav top languages" width="40%"/>
     </a>
 </div>
 
