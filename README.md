@@ -111,8 +111,8 @@ if __name__ == '__main__':
         <img alt="cychitivav stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cychitivav&theme=github" width="66%" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&theme=github_dark&hide=jupyter%20notebook" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut&hide=jupyter%20notebook" />
         <img alt="cychitivav top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychitivav&layout=donut" width="30%" />
     </picture>
 </div>
