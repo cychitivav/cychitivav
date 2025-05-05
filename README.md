@@ -25,10 +25,7 @@ if __name__ == '__main__':
 </p>
 
 -   👯 I'm contributing to ROS2 Documentation.
--   🤔 I'm looking to collaborate on FastAPI project.
-<!-- - 💬 Ask me about ... -->
--   😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+-   🤔 I'm looking to collaborate on PX4 Autopilot.
 -   🌱 I'm currently learning Machine Learning and Deep Learning.
 -   🔭 I'm currently working on implementing control algorithms.
 
